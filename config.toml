@@ -2,6 +2,7 @@ baseURL = "http://sandeshdamkondwar.github.io/"
 languageCode = "en-us"
 title = "Sandesh Damkondwar"
 theme = "noteworthy"
+publishDir = "docs"
 
 [params]
     # Main
