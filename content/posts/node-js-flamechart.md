@@ -1,6 +1,6 @@
 ---
 title: "Generate a NodeJS Flamechart"
-date: 2020-02-19T00:30:48+05:30
+date: 2019-01-11T00:30:48+05:30
 draft: false
 ---
 
@@ -13,7 +13,7 @@ Linux demo 3.2.0-74-virtual #109-Ubuntu SMP Tue Dec 9 17:04:48 UTC 2014 x86_64 x
 
     $ node --version
 
-v5.0.0
+v10.16.0
 
     $ node --perf-basic-prof-only-functions demo.js&
 

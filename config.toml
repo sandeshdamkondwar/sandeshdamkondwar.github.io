@@ -1,4 +1,11 @@
 baseURL = "http://sandeshdamkondwar.github.io/"
 languageCode = "en-us"
 title = "Sandesh Damkondwar"
-theme = "ananke"
+theme = "noteworthy"
+
+[params]
+    # Main
+    email = "sandeshdamkondwar@gmail.com"
+    twitter = "https://twitter.com/sandydamy"
+    pinterest = "https://in.pinterest.com/sandydamy"
+    linkedin = "http://linkedin.com/in/sandeshdamkondwar"
