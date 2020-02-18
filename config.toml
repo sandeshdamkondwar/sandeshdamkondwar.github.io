@@ -1,0 +1,4 @@
+baseURL = "http://sandeshdamkondwar.github.io/"
+languageCode = "en-us"
+title = "Sandesh Damkondwar"
+theme = "ananke"
