@@ -2,6 +2,6 @@
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
 [submodule "sandeshdamkondwar.github.io"]
-	path = sandeshdamkondwar.github.io
+	path = public
 	url = git@github.com:sandeshdamkondwar/sandeshdamkondwar.github.io.git
 	branch = master
